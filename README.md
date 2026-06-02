@@ -1,5 +1,5 @@
 # 💫 About Me:
-**Name:** Harsh Bandral  <br>**Age:** 21  <br>**Current Company:** QServices  <br>**Skills:** Frontend Development, Backend Development  <br>
+**Name:** Harsh Bandral  <br>**Age:** 22  <br>**Current Company:** IBM  <br>**Skills:** Frontend Development, Backend Development  <br>
 
 
 ## 🌐 Socials:
